@@ -1,0 +1,43 @@
+{
+  "goldPurchase": {
+    "id": "gold-purchase",
+    "title": "Gold Purchase Scheme",
+    "summary": "Plan a future jewellery purchase through regular instalments. Ask the showroom about enrolment and current benefits.",
+    "image": "/images/gold.webp",
+    "alt": "Detailed gold bangles resting on limestone",
+    "approved": false,
+    "headlineMl": "0% പണിക്കൂലിയിൽ സ്വർണ്ണാഭരണങ്ങൾ സ്വന്തമാക്കാൻ അവസരം",
+    "termsMl": [
+      "2000 രൂപയിൽ തുടങ്ങുന്ന 15 തവണകൾ.",
+      "എല്ലാ മാസവും നറുക്കെടുപ്പ്.",
+      "നറുക്ക് ലഭിക്കുന്നവർക്ക് 30,000 രൂപയുടെ ആഭരണങ്ങൾ സമ്മാനമായി നേടാം; തുടർന്ന് പണമടക്കേണ്ടതില്ല.",
+      "15 മാസം പൂർത്തീകരിക്കുന്നവർക്ക് പണിക്കൂലി ഇല്ലാതെ അത്രയും രൂപയ്ക്കുള്ള ആഭരണങ്ങൾ വാങ്ങാവുന്നതാണ്.",
+      "സ്കീം കാലയളവിൽ അംഗങ്ങൾ നടത്തുന്ന പർച്ചേസിന് ആകർഷകമായ ഡിസ്കൗണ്ടുകൾ."
+    ],
+    "termsNote": "Ask the showroom for the current eligibility, payment schedule, benefits and full terms before enrolling.",
+    "creative": null
+  },
+  "advanceBooking": {
+    "id": "advance-gold-booking",
+    "title": "Advance Gold Booking",
+    "summary": "Planning ahead for a wedding or a special occasion? Ask about three gold booking options.",
+    "image": "/images/bridal.webp",
+    "alt": "Traditional layered gold bridal jewellery",
+    "plans": [
+      { "name": "AGB1", "approved": false, "terms": [] },
+      { "name": "AGB2", "approved": false, "terms": [] },
+      { "name": "AGB3", "approved": false, "terms": [] }
+    ],
+    "creative": null
+  },
+  "goldExchange": {
+    "id": "gold-exchange",
+    "title": "Gold Exchange Scheme",
+    "summary": "Bring old gold jewellery to the showroom for a valuation and ask about exchanging it for new 916-purity gold jewellery.",
+    "image": "/images/showroom.webp",
+    "alt": "A jeweller presents a gold necklace on a velvet tray",
+    "termsNote": "Gold rates vary. Final exchange value depends on testing, purity, weight, applicable deductions and the rate on the transaction date.",
+    "cta": "Enquire About Gold Exchange",
+    "creative": null
+  }
+}

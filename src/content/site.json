@@ -1,0 +1,24 @@
+{
+  "brand": "Vattaparambil Gold & Diamonds",
+  "location": "Mankada, Malappuram",
+  "region": "Mankada · Perinthalmanna · Malappuram",
+  "SHOP_URL": "https://jewellery-frontend-7kk8.onrender.com/login",
+  "AR_TRYON_URL": "",
+  "INSTAGRAM_URL": "https://www.instagram.com/vp_goldanddiamonds?fqnt=MWJzZXhsMXFzeGVzag==",
+  "PHONE_PRIMARY": "9446235629",
+  "PHONE_SECONDARY": "9495173678",
+  "WHATSAPP_PHONE": "",
+  "MAP_URL": "",
+  "SHOWROOM_ADDRESS": "",
+  "SHOWROOM_HOURS": "",
+  "SITE_URL": "",
+  "labels": {
+    "shop": "Shop Now",
+    "schemes": "Explore Schemes",
+    "offers": "View Offers",
+    "offerDetail": "View Offer",
+    "tryOn": "Try It Now",
+    "enquire": "Enquire Now",
+    "planTerms": "Contact us for current terms"
+  }
+}

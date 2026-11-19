@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "aura-diamond-fest",
+    "title": "Aura Diamond Fest",
+    "summary": "A showcase devoted to diamond jewellery, from lightweight everyday styles to pieces for occasions.",
+    "description": "Aura Diamond Fest highlights diamond jewellery for different occasions, including lightweight pieces for daily wear. Contact the showroom for collection availability and any confirmed offer details.",
+    "image": "/images/diamond.webp",
+    "alt": "Solitaire and diamond band on warm satin",
+    "creative": null,
+    "status": "Unconfirmed",
+    "approved": false,
+    "startDate": null,
+    "endDate": null,
+    "archiveLabel": null,
+    "terms": []
+  },
+  {
+    "slug": "grace-silver-fest",
+    "title": "Grace Silver Fest",
+    "summary": "A closer look at silver jewellery for everyday wear and gifting.",
+    "description": "The Silver Fest spotlight includes chains, bracelets, earrings, rings and anklets. Ask the showroom which styles are available.",
+    "image": "/images/silver.webp",
+    "alt": "Silver ankle chains and earrings on dark fabric",
+    "creative": null,
+    "status": "Unconfirmed",
+    "approved": false,
+    "startDate": null,
+    "endDate": null,
+    "archiveLabel": null,
+    "terms": []
+  },
+  {
+    "slug": "onam-offers-2025",
+    "title": "Onam Offers 2025",
+    "summary": "A look back at the showroom’s 2025 Onam campaign.",
+    "description": "This archive entry records the 2025 Onam season. The campaign has ended. For current festive collections, contact the showroom.",
+    "image": "/images/bridal.webp",
+    "alt": "Festive gold necklaces with a warm ochre sari",
+    "creative": null,
+    "status": "Ended",
+    "approved": false,
+    "startDate": null,
+    "endDate": null,
+    "archiveLabel": "2025",
+    "terms": []
+  },
+  {
+    "slug": "swarnotsavam-2026",
+    "title": "Swarnotsavam 2026",
+    "summary": "Gold jewellery campaign and mega lucky draw information.",
+    "description": "Contact the showroom for confirmed dates, eligibility, prize information and draw terms for Swarnotsavam.",
+    "image": "/images/showroom.webp",
+    "alt": "Gold necklace displayed on a velvet jewellery tray",
+    "creative": null,
+    "status": "Unconfirmed",
+    "approved": false,
+    "startDate": null,
+    "endDate": null,
+    "archiveLabel": null,
+    "terms": []
+  }
+]

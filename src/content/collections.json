@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "gold",
+    "title": "Gold",
+    "summary": "From fine everyday pieces to richly worked classics.",
+    "description": "Explore gold jewellery for everyday wear, gifts and special occasions. Ask the showroom about bangles, necklaces, chains and earrings in the styles you love.",
+    "image": "/images/gold.webp",
+    "alt": "Two ornate gold bangles on warm limestone"
+  },
+  {
+    "slug": "diamond",
+    "title": "Diamond",
+    "summary": "A little brilliance for every day and every milestone.",
+    "description": "Discover understated diamond jewellery alongside pieces for anniversaries, engagements and celebrations. Contact the showroom to ask about settings, styles and availability.",
+    "image": "/images/diamond.webp",
+    "alt": "A diamond solitaire and a fine diamond band on satin"
+  },
+  {
+    "slug": "silver",
+    "title": "Silver",
+    "summary": "Light, expressive pieces for everyday wear.",
+    "description": "Explore silver jewellery for daily wear and gifting. Ask the showroom about chains, bracelets, earrings, rings and anklets.",
+    "image": "/images/silver.webp",
+    "alt": "Silver anklets and earrings arranged on plum silk"
+  },
+  {
+    "slug": "bridal",
+    "title": "Wedding & Bridal",
+    "summary": "Jewellery for the ceremony and the life you’re celebrating.",
+    "description": "Find inspiration for a bridal look, from layered necklaces to statement earrings and bangles. Visit the showroom to see how pieces sit together with your wedding attire.",
+    "image": "/images/bridal.webp",
+    "alt": "Layered gold necklaces worn with an ochre silk sari"
+  }
+]
