@@ -38,7 +38,7 @@ Leave optional integration fields empty while they are pending. Use an approved 
 ## Production hand-off
 
 - Set `SITE_URL` to the confirmed production HTTPS origin. A rebuild adds canonical URLs, absolute Open Graph images and a sitemap, and enables indexing.
-- Supply the approved higher-resolution logo, jewellery and showroom photography, and the original scheme and campaign creatives. The current build uses the supplied 150 × 150 logo and illustrative editorial photography.
+- Supply approved jewellery and showroom photography and the original scheme and campaign creatives. The current build uses illustrative editorial photography.
 - Confirm public phone numbers, the exact address and map pin, opening hours, and which number supports WhatsApp. Configure the approved AR platform URL when available.
 - Verify scheme benefits, payment rules, eligibility and cancellation terms before enabling them. Confirm campaign dates and terms, including prize details, eligibility and association wording for Swarnotsavam. Keep the 2025 Onam campaign archived unless the business gives it a different editorial treatment.
 - The site emits a `vp:intent` browser event. Connect a reporting provider after the analytics and consent configuration is approved.

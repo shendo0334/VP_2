@@ -2,7 +2,7 @@
 
 ## Composition
 
-The showroom identity is expressed through dark plum, gold metal, and parchment. Use the supplied VP logo on a black field at its original proportions. Frame the hero with a narrow ivory gutter and place copy in quiet space across the left. Use wide editorial photography with warm directional light and close jewellery detail. The reference recording guides the shifts between full photography, light breathing space, and a dark service panel.
+The showroom identity is expressed through dark plum, gold metal, and parchment. Use the supplied VP logo at its original proportions on a dark plum background. Frame the hero with a narrow ivory gutter and place copy in quiet space across the left. Use wide editorial photography with warm directional light and close jewellery detail. The reference recording guides the shifts between full photography, light breathing space, and a dark service panel.
 
 ## Tokens
 

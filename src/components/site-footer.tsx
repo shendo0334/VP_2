@@ -10,8 +10,7 @@ export function SiteFooter() {
       <div className="content-shell footer-grid">
         <div className="footer-brand">
           <Link className="brand-lockup" href="/">
-            <Image className="brand-mark" src="/images/vp-logo.jpg" width={150} height={150} alt="" />
-            <span className="brand-wordmark">Vattaparambil<span>Gold &amp; Diamonds</span></span>
+            <Image className="brand-mark" src="/images/vp-logo.png" width={1080} height={1080} alt={site.brand} />
           </Link>
           <p>Gold, diamond and silver jewellery in Mankada, Malappuram.</p>
         </div>

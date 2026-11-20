@@ -25,7 +25,7 @@ Event names are `shop_now_click`, `ar_tryon_click`, `scheme_detail_view`, `offer
 
 ## Image sources
 
-`public/images/vp-logo.jpg` is copied from the supplied logo. The built-in ImageGen tool produced the editorial assets described below. WebP derivatives are pre-sized for the static host.
+`public/images/vp-logo.png` is copied from `Logo/VP Logo.png`. The built-in ImageGen tool produced the editorial assets described below. WebP derivatives are pre-sized for the static host.
 
 | Outputs in `public/images/` | Generation brief |
 | --- | --- |

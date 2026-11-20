@@ -13,7 +13,7 @@ import { siteOrigin } from "@/lib/metadata";
 export const metadata: Metadata = {
   metadataBase: siteOrigin ? new URL(siteOrigin) : undefined,
   robots: { index: Boolean(siteOrigin), follow: Boolean(siteOrigin) },
-  icons: { icon: "/images/vp-logo.jpg" },
+  icons: { icon: "/images/vp-logo.png" },
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

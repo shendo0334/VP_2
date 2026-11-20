@@ -42,8 +42,7 @@ export function SiteHeader() {
     <header className="site-header">
       <div className="site-header__inner">
         <Link className="brand-lockup" href="/" onClick={() => setMenuRoute(null)}>
-          <Image className="brand-mark" src="/images/vp-logo.jpg" width={150} height={150} alt="" priority />
-          <span className="brand-wordmark">Vattaparambil<span>Gold &amp; Diamonds</span></span>
+          <Image className="brand-mark" src="/images/vp-logo.png" width={1080} height={1080} alt={site.brand} preload />
           <span className="sr-only">Home</span>
         </Link>
         <nav className="desktop-nav" aria-label="Main navigation">
